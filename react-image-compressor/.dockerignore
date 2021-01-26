@@ -1,0 +1,20 @@
+node_modules/
+npm-debug.log
+.gitignore
+.eslintrc
+.git
+# Logs
+logs
+*.log
+# Runtime data
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.grunt
+.lock-wscript
+build/Release
+node_modules
+server/*.spec.js
+kubernetes
