@@ -18,6 +18,4 @@ services:
   react:
     build: ./react-image-compressor
     container_name: react
-    ports:
-      - 5000:5000
-    
+
