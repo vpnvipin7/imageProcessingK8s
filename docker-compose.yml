@@ -7,7 +7,7 @@ services:
     image: nginx:latest
     # volumes:
     #   - ./nginx/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
-    #   - ./nginx/nginx/log:/var/log/nginx/
+      - ./nginx/nginx/log:/var/log/nginx/
     # - ./nginx/nginx/default.conf:/etc/nginx/conf.d/default.conf
     ports:
       - 80:80
