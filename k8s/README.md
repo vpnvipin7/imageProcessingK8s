@@ -5,7 +5,7 @@
     minikube start --memory=4000 
 3) Run the enviorment command
     minikube docker-env
-4) For windows OS run eval cmd as bellow 
+4) For windows OS run eval cmd as below 
     @FOR /f "tokens=*" %i IN ('minikube -p minikube docker-env') DO @%i
 
 
