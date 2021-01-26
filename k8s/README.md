@@ -1,4 +1,4 @@
-# Local execution plan
+# Local execution plan ( WINDOWS )
 
 1) Install minikube from minikube.sigs.k8s.io/docs/start/
 2) This will start the minikube locally. minimum memory should be 2GB.
